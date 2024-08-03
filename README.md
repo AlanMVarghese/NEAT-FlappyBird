@@ -1,3 +1,1 @@
-This is the Flappy Bird Game using NEAT and Pygame written in Python. NEAT stands for neuro evolution of augmenting topologies and is a genetic algorithm that creates artificial neural networks.
-
-In this project, NEAT is used to train an AI to play the Flappy Bird Game. 
+I developed Flappy Bird AI using Pygame and NEAT as a personal project to explore the capabilities of neural networks and genetic algorithms. The goal was to demonstrate how AI can learn and improve its performance in the classic Flappy Bird game by evolving over generations. The outcome was a successful demonstration of machine learning in action, showcasing the AI's ability to autonomously learn and adapt to the game.
